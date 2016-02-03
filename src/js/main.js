@@ -3,6 +3,8 @@ Reveal.initialize({
 	progress: true,
 	history: true,
 	center: true,
+	slideNumber: true,
+	touch: true,
 
 	transition: 'concave', // none/fade/slide/convex/concave/zoom
 
